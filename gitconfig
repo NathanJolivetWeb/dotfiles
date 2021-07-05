@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = nathan.jolivet@gmail.com
+	name = Nathan Jolivet
